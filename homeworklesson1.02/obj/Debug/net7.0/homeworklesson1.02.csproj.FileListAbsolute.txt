@@ -1,0 +1,15 @@
+F:\Git\homeworklesson1.02\bin\Debug\net7.0\homeworklesson1.02.exe
+F:\Git\homeworklesson1.02\bin\Debug\net7.0\homeworklesson1.02.deps.json
+F:\Git\homeworklesson1.02\bin\Debug\net7.0\homeworklesson1.02.runtimeconfig.json
+F:\Git\homeworklesson1.02\bin\Debug\net7.0\homeworklesson1.02.dll
+F:\Git\homeworklesson1.02\bin\Debug\net7.0\homeworklesson1.02.pdb
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.csproj.AssemblyReference.cache
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.AssemblyInfoInputs.cache
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.AssemblyInfo.cs
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.csproj.CoreCompileInputs.cache
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.dll
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\refint\homeworklesson1.02.dll
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.pdb
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\homeworklesson1.02.genruntimeconfig.cache
+F:\Git\homeworklesson1.02\obj\Debug\net7.0\ref\homeworklesson1.02.dll
