@@ -29,3 +29,7 @@ This creates a new subdirectory named .git that contains all of your necessary r
 
 ## Git add 
 The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run **git commit**.
+
+
+## Git commit
+What is a **Git commit**? In Git, a commit is a snapshot of your repo at a specific point in time. To help further understand what a Git commit is, we need to review your Working Directory vs your Staging Directory and how files changes are reflected in your Git repository.
