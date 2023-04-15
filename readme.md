@@ -33,3 +33,19 @@ The git add command adds a change in the working directory to the staging area. 
 
 ## Git commit
 What is a **Git commit**? In Git, a commit is a snapshot of your repo at a specific point in time. To help further understand what a Git commit is, we need to review your Working Directory vs your Staging Directory and how files changes are reflected in your Git repository.
+
+## Git status 
+The **git status** command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by *Git*.
+
+## Basic writing and formatting syntax
+Create sophisticated formatting for your prose and code on GitHub with simple syntax
+Headings
+To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
+
+**examples**:
+
+ # The largest heading
+
+ ## The second largest heading
+
+ ###### The smallest heading
